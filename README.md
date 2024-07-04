@@ -1,1 +1,1 @@
-# server_table
+Server for Table project.
